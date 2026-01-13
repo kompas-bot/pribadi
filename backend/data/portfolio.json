@@ -1,0 +1,119 @@
+{
+  "profile": {
+    "name": "Amrosi",
+    "role": "Full-Stack Developer & Web Developer",
+    "about": "Saya seorang pengembang full-stack dengan passion di bidang teknologi web. Memiliki pengalaman dalam pengembangan website dan aplikasi web modern. Selalu tertarik mempelajari teknologi baru dan menerapkannya dalam proyek-proyek nyata.",
+    "email": "hello@amrosi.dev",
+    "location": "Indonesia",
+    "github": "https://github.com/lolipop0221",
+    "linkedin": "#",
+    "twitter": "#"
+  },
+  "skills": [
+    {
+      "name": "HTML/CSS",
+      "level": 90,
+      "category": "frontend"
+    },
+    {
+      "name": "JavaScript",
+      "level": 85,
+      "category": "frontend"
+    },
+    {
+      "name": "React.js",
+      "level": 80,
+      "category": "frontend"
+    },
+    {
+      "name": "Node.js",
+      "level": 75,
+      "category": "backend"
+    },
+    {
+      "name": "PHP",
+      "level": 70,
+      "category": "backend"
+    },
+    {
+      "name": "Python",
+      "level": 65,
+      "category": "backend"
+    },
+    {
+      "name": "MySQL/PostgreSQL",
+      "level": 75,
+      "category": "database"
+    },
+    {
+      "name": "Git/GitHub",
+      "level": 85,
+      "category": "tools"
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "NaniNaneno Project",
+      "description": "Project personal untuk eksplorasi teknologi web modern dengan berbagai fitur interaktif.",
+      "technologies": ["HTML", "CSS", "JavaScript", "React"],
+      "category": "Web Development",
+      "github": "https://github.com/lolipop0221/naninaneno",
+      "demo": null
+    },
+    {
+      "id": 2,
+      "title": "Operating System Project",
+      "description": "Project implementasi konsep sistem operasi dengan simulasi berbagai algoritma.",
+      "technologies": ["C++", "Python", "Linux"],
+      "category": "System Programming",
+      "github": "https://github.com/lolipop0221/OS_PROJECT",
+      "demo": null
+    },
+    {
+      "id": 3,
+      "title": "Personal Portfolio Website",
+      "description": "Website portofolio pribadi untuk menampilkan project dan skill yang dimiliki.",
+      "technologies": ["HTML", "CSS", "JavaScript", "Node.js"],
+      "category": "Web Development",
+      "github": "https://github.com/lolipop0221/lolipop0221",
+      "demo": "https://amrosi.dev"
+    },
+    {
+      "id": 4,
+      "title": "Design Method Team Project",
+      "description": "Project tim untuk mata kuliah metode desain dengan penerapan metodologi agile.",
+      "technologies": ["Figma", "Trello", "Git", "Documentation"],
+      "category": "Team Project",
+      "github": "https://github.com/lolipop0221/FINPRO_TEAM_DESIGN_METHOD",
+      "demo": null
+    },
+    {
+      "id": 5,
+      "title": "Web Development Project",
+      "description": "Project pengembangan website dengan berbagai fitur modern dan responsif.",
+      "technologies": ["HTML", "CSS", "JavaScript", "PHP"],
+      "category": "Web Development",
+      "github": "https://github.com/lolipop0221/web",
+      "demo": null
+    },
+    {
+      "id": 6,
+      "title": "Project Web Collaboration",
+      "description": "Project kolaborasi pengembangan website dengan tim menggunakan Git workflow.",
+      "technologies": ["Git", "GitHub", "HTML", "CSS", "JavaScript"],
+      "category": "Collaboration",
+      "github": "https://github.com/kompas-bot/Projectweb",
+      "demo": null
+    },
+    {
+      "id": 7,
+      "title": "Operating System Concepts",
+      "description": "Implementasi konsep-konsep sistem operasi seperti scheduling, memory management, dll.",
+      "technologies": ["C", "C++", "Linux", "Bash"],
+      "category": "System Programming",
+      "github": "https://github.com/lolipop0221/project_os",
+      "demo": null
+    }
+  ]
+}
